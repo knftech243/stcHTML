@@ -1,0 +1,5 @@
+{
+  "name": "Static to Dynamic Web Converter",
+  "description": "An AI-powered tool to convert static HTML/CSS websites into dynamic PHP/SQL applications. This tool uses the Gemini API to analyze, refactor, and generate high-quality, database-driven code, complete with automated reviews and suggestions.",
+  "requestFramePermissions": []
+}
